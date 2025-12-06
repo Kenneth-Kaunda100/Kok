@@ -1,0 +1,79 @@
+ html{
+    scroll-behavior: smooth;
+ }
+ .header {
+   border-radius: 50px;
+    width: 100%;
+    height: 30%;
+    background-color:rgb(233, 57, 139);
+    top: 0px;
+    color: azure;
+    padding: 5px;
+   margin-top: 0px;
+    border-bottom: 1px-solid orangered;
+   
+ }
+ h1 {
+   text-align: center;
+   color: chartreuse;
+ }
+ .home {
+   height: 70%;
+   width: 100%;
+   align-items: center;
+
+ }
+ .first {
+    width: 80%;
+    height: 60%;
+    align-items: center;
+    padding: 15px;
+    margin-top: 20px;
+    
+ }
+ 
+ img {
+   width: 20%;
+   height: 20%;
+   border-radius: 15px;
+   align-items: center;
+   padding-left: 15px;
+   border: 1px solid black;
+
+ }
+ .second {
+   align-items: center;
+   padding: 15px;
+   width: 100%;
+   text-align: center;
+   color: whitesmoke;
+   background-color: rgb(6,6,13);
+
+ }
+a {
+   color: white;
+   padding: 15px;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: 14px;
+}
+a:hover {
+   border-bottom: 2px yellow solid ;
+   border-radius: 12px;
+   font-weight: bolder;
+   padding-bottom: 2px;
+}
+body{
+   background-image: url(wall1.jpg);
+   background-attachment: fixed;
+}
+.Third{
+   text-align: center;
+   text-size-adjust: initial;
+   background-color: black;
+   color: black;
+}
+.center {
+   display: block;
+   margin: 0;
+}
